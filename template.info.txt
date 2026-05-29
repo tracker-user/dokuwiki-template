@@ -1,7 +1,7 @@
-base     dokuwiki
-author   Anika Henke
+base     dokufork
+author   Anika Henke, TrackerUser
 email    anika@selfthinker.org
-date     2015-07-26
-name     DokuWiki Template
-desc     DokuWiki's default template since 2012
-url      https://www.dokuwiki.org/template:dokuwiki
+date     2077-07-26
+name     DokuWiki Fork
+desc     DokuWiki's default template since 2012 (local fork)
+url      https://github.com/tracker-user/dokuwiki-template
